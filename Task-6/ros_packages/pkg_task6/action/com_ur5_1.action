@@ -1,0 +1,10 @@
+# goal
+string ims_info 
+---
+# result
+string pkg_info    
+string order_dispatched
+---
+# feedback
+int8 update_percentage
+
